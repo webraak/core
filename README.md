@@ -1,0 +1,2 @@
+# core
+Comprehensive management platform
